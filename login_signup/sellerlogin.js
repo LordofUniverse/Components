@@ -58,12 +58,7 @@ const Sellerlogin = () => {
   }
 
   useEffect(() => {
-    // document.addEventListener('keydown', function (event) {
-    //   if ((event.key === 'Enter') && (!(document.getElementById('name') === ''))) {
-    //     // event.preventDefault()
-    //     routeChange()
-    //   }
-    // })
+    
   }, [])
 
   return (
@@ -119,7 +114,7 @@ const Sellerlogin = () => {
               Sign up
             </button>
           </div>
-          {/* <img src="_1.png" class="image" alt="" /> */}
+          <img src="" class="image" alt="" />
         </div>
         <div class="panel right-panel">
           <div class="content">
@@ -130,7 +125,7 @@ const Sellerlogin = () => {
               Sign in
             </button>
           </div>
-          {/* <img src="_2.png" class="image" alt="" /> */}
+          <img src="" class="image" alt="" />
         </div>
       </div>
     </div>
